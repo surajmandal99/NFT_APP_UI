@@ -1,7 +1,7 @@
 # NFT_APP_UI
 UI for the NFT Collection App 🤞
 
-# This is the flutter ui for the Trending Nft App in which we will see the NFT collection of monkey 🙊.
+# This is the flutter ui for the Trending Nft App in which you will see the trending NFT collection of monkey 🙊.
 
 
 
